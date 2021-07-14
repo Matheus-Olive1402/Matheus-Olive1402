@@ -52,6 +52,6 @@
   <a href="https://github.com/Matheus-Olive140/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Olive1402&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Olive1402&layout=compact" 
     />
 </p>
