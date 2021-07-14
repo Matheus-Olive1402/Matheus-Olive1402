@@ -1,5 +1,5 @@
 ## Hi, I'm Matheus de Oliveira. Nice to meet you. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-api/top-langs?username=anuraghazra
+
 ### Sobre mim
 
 <img align="right" src="programa.png" width="250"/>
@@ -49,9 +49,9 @@ api/top-langs?username=anuraghazra
 
  ## Repositórios 🥇: <br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Matheus-Olive140/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Olive1402&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Olive1402&layout=compact" 
     />
 </p>
