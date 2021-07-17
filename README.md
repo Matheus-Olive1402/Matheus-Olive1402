@@ -47,7 +47,7 @@
   
 <p align="center"> 
 
- ## Repositórios 🥇: <br>
+ ## Linguagens 🥇: <br>
 <p align="center">
   <a href="https://github.com/Matheus-Olive140/github-readme-stats">
     <img
