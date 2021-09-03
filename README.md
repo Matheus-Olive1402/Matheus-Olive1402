@@ -4,7 +4,7 @@
 
 <img align="right" src="programa.png" width="250"/>
 
-- 💼 Desempregado, porém estou sempre aberto a novas experiências e oportunidades (Unemployed).
+- 💼 Desempregado, porém estou sempre aberto a novas experiências e oportunidades.
 - 📚 Formado em Analise e desenvolvimento de sistemas pela UNIP.
 - 🌱 Interesses: Typescript, mongoDB, Laravel, SQLServer e Github (me aperfeiçoar).
 - ⚡ Hobbies: literatura sobre a historia humana (Sim era meu planoB ser historiador), Filosofia e seus pensadores e por fim aquele call of duty padrão hahaha.
